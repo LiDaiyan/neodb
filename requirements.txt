@@ -9,8 +9,8 @@ django-simple-history
 django-hijack
 django-user-messages
 django-slack
-#django-ninja
-#django-polymorphic
+django-ninja
+django-polymorphic
 meilisearch
 easy-thumbnails
 lxml
@@ -25,3 +25,6 @@ dnspython
 typesense
 markdownify
 igdb-api-v4
+dj-database-url
+gunicorn
+django-debug-toolbar
